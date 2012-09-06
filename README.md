@@ -18,6 +18,8 @@ Custom Themes Available as a part of this project are listed below,
 * Spring
 * Stripes
 
+![MDM Spring Theme](https://raw.github.com/subinsebastien/rowfiles/master/6.9.12/mdm-spring.jpg "Smooth looking mdm themes")
+
 To install these themes, download or clone the repository and save it on the machine. Run mdmsetup as root.
 
 ```sudo mdmsetup```
