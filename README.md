@@ -1,4 +1,4 @@
-Arc Color MDM Login Themes
+Arc Color MDM Login Screen Themes
 ==========================
 
 This repository contains a couple of MDM login themes derived from GDM Arc-Color themes. The original Arc-Color themes can be found at http://gnome-look.org/. The included themes from the original GDM Arc-Color project in this repositories are,
